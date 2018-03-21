@@ -2031,7 +2031,7 @@ button,
 .button {
     position: relative;
     display: inline-block;
-    background: #df7366;
+    background: black;
     color: #fff;
     text-align: center;
     border-radius: 0.5em;
@@ -2053,7 +2053,7 @@ input[type="reset"]:hover,
 button:hover,
 .button:hover {
     color: #fff;
-    background: #ef8376;
+    background: red;
 }
 
 input[type="button"].alt,
@@ -2141,7 +2141,7 @@ header .icon.circled {
 
 #header {
     position: relative;
-    background-image: url("../images/header.jpg");
+    background-image: url(http://conceptodefinicion.de/wp-content/uploads/2015/07/Derecho-Civil.jpg);
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
@@ -2223,7 +2223,7 @@ body.homepage #header h1 {
 
 body.homepage #header:after {
     content: '';
-    background: #1C0920;
+    background: black;
     display: block;
     position: absolute;
     left: 0;
@@ -2506,7 +2506,7 @@ body.homepage.is-loading #header:after {
     width: 6em;
     height: 6em;
     border-radius: 100%;
-    background-color: rgba(72, 57, 73, 0.5);
+    background-color: black;
     position: absolute;
     top: 50%;
     margin-top: -3em;
